@@ -1,0 +1,40 @@
+font-family: 'Lato', sans-serif;
+
+body {
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	background: brown;
+}
+
+#container {
+	background: #D8DE7D;
+	width: 300px;
+	color: ;
+	padding: 20px;
+	border-radius: 15px;
+	height: auto;
+}
+h3 {
+	font-size: 40px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: black;
+}
+
+h4 {
+	background: #FB0C6B;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+a {
+color: #FF00AA;
+ text-decoration: none;
+}
